@@ -6,7 +6,7 @@
 <div align="center">
 
   <!-- HEADER BANNER -->
-  <img src="./banner.jpg" width="100%" alt="Hakim Indra - Creative Technologist" />
+  <img src="./banner.png" width="100%" alt="Hakim Indra - Creative Technologist" />
 
   <br/><br/>
 
