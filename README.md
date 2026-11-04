@@ -1,67 +1,126 @@
+
 <div align="center">
 
-<!-- Banner Ghibli Header -->
-<img src="./banner.jpg" alt="Hakim Indra Banner" width="100%" />
+  <!-- Header Banner -->
+  <img src="./banner.jpg" alt="Hakim Indra Banner" width="100%" />
 
-<br/><br/>
+  <br/>
 
-# 🌿 Halo, Saya Hakim Indra!
-### 🎨 Creative Technologist & Full-Stack Developer 💻
+  # Hi, I'm Hakim Indra.
 
-<p align="center">
+  ### Creative Technologist · Full-Stack Developer
+
+  <p>
+    Building digital experiences through technology, creativity, and thoughtful design.
+    <br/>
+    Focused on creating simple, useful, and meaningful solutions.
+  </p>
+
+  <br/>
+
   <a href="https://hakimlesmana.my.id">
-    <img src="https://img.shields.io/badge/Website-hakimlesmana.my.id-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website" />
+    <img src="https://img.shields.io/badge/Portfolio-hakimlesmana.my.id-161B22?style=flat-square&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" />
   </a>
+  &nbsp;
   <a href="https://github.com/hakimindraa">
-    <img src="https://img.shields.io/badge/GitHub-hakimindraa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-hakimindraa-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
 
-> *"Menggabungkan rekayasa digital terstruktur dengan eksplorasi visual bernyawa."*
+</div>
 
----
-
-### 🛠️ Bahasa Pemrograman & Ekosistem
-
-<p align="center">
-  <!-- Bahasa & Framework Utama -->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-  <br/>
-  <!-- Frontend & Mobile -->
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <br/>
-  <!-- Database & Infrastruktur -->
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-</p>
+<br/>
 
 ---
 
-### 📊 Statistik Aktivitas GitHub
+## About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hakimindraa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hakim's GitHub Stats" />
+I'm an Informatics Engineering student with an interest in building digital products that combine functionality, usability, and visual aesthetics.
+
+I enjoy exploring different areas of technology, from web and mobile development to artificial intelligence and interactive experiences.
+
+- **Development:** Building modern web and mobile applications.
+- **Design:** Exploring UI/UX and creating intuitive interfaces.
+- **Technology:** Learning AI, computer vision, and emerging technologies.
+- **Creative:** Combining photography, visual storytelling, and technology.
+
+<br/>
+
+## Tech Stack & Tools
+
+Technologies and tools I use to build and explore digital solutions.
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,html,css" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimindraa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+**Frameworks & Libraries**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,flutter" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakimindraa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+**Database & Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase" />
 </p>
+
+**Tools & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,cloudflare,ubuntu" />
+</p>
+
+<br/>
 
 ---
 
-<sub>Dirancang dengan perpaduan teknologi web modern dan nuansa seni Studio Ghibli.</sub>
+## GitHub Analytics
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hakimindraa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github"
+    height="170"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimindraa&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    height="170"
+    alt="Top Programming Languages"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://streak-stats.demolab.com?user=hakimindraa&theme=github-dark-blue&hide_border=true&background=0D1117"
+    width="70%"
+    alt="GitHub Contribution Streak"
+  />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+  ### Let's Build Something Meaningful.
+
+  <p>
+    Always learning, experimenting, and turning ideas into reality.
+  </p>
+
+  <a href="https://hakimlesmana.my.id">
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" />
+  </a>
+
+  <br/><br/>
+
+  <sub>Designed with curiosity, built with creativity.</sub>
 
 </div>
