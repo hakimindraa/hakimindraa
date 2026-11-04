@@ -1,25 +1,16 @@
+ <div align="center">
 
-<div align="center">
+<img src="./banner.png" width="100%" alt="Hakim Indra - Creative Technologist" />
 
-  <!-- Banner -->
-  <img src="./banner.png" width="100%" alt="Hakim Indra" />
+<br />
 
-  <br/>
+# Hi, I'm Hakim Indra 👋
 
-  <h1>Hi, I'm Hakim Indra.</h1>
+**Full-Stack Developer · Creative Technologist**
 
-  <h3>Creative Technologist · Full-Stack Developer</h3>
+Building meaningful digital experiences through technology, design, and innovation.
 
-  <p>
-    Building meaningful digital experiences through technology and design.
-  </p>
-
-  <a href="https://hakimlesmana.my.id">
-    <img src="https://img.shields.io/badge/Portfolio-hakimlesmana.my.id-161B22?style=flat-square&logo=googlechrome&logoColor=58A6FF" />
-  </a>
-  <a href="https://github.com/hakimindraa">
-    <img src="https://img.shields.io/badge/GitHub-hakimindraa-161B22?style=flat-square&logo=github&logoColor=white" />
-  </a>
+[Portfolio](https://hakimlesmana.my.id) · [GitHub](https://github.com/hakimindraa)
 
 </div>
 
@@ -27,24 +18,43 @@
 
 ## About Me
 
-I'm an Informatics Engineering student interested in developing digital products that combine functionality, usability, and thoughtful design.
+I'm an Informatics Engineering student passionate about building digital products that combine functionality, usability, and thoughtful design.
 
-My interests include:
-
-- **Development** — Modern web and mobile applications.
-- **Design** — UI/UX and digital experiences.
-- **Technology** — Artificial intelligence and computer vision.
-- **Creative** — Photography and visual storytelling.
+- 💻 Interested in modern web and application development.
+- 🎨 Exploring UI/UX design and creative digital experiences.
+- 🤖 Interested in Artificial Intelligence and Computer Vision.
+- 📷 Enjoy photography and visual storytelling.
 
 ---
 
 ## Tech Stack
 
-<div align="center">
+**Frontend & Web Development**
 
-  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,html,css,nextjs,react,tailwind,flutter,postgres,supabase,firebase,git,github,figma,vercel,cloudflare" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
-</div>
+**Programming & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,figma,vercel" />
+</p>
+
+**Exploring**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,blender" />
+</p>
+
+---
+
+## Areas of Interest
+
+- **Web Development** — Building responsive and modern digital applications.
+- **UI/UX Design** — Creating intuitive and user-centered interfaces.
+- **Artificial Intelligence** — Exploring machine learning and computer vision.
+- **Creative Technology** — Combining software, visual design, and interactive experiences.
 
 ---
 
@@ -52,24 +62,11 @@ My interests include:
 
 <div align="center">
 
-  <img
-    src="./profile/stats.svg"
-    width="49%"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    width="49%"
-    alt="Top Languages"
-  />
+<img src="./profile/stats.svg" width="100%" alt="GitHub Statistics" />
 
-  <br/><br/>
+<br />
 
-  <img
-    src="https://streak-stats.demolab.com/?user=hakimindraa&theme=github-dark-blue&hide_border=true&background=0D1117"
-    width="70%"
-    alt="GitHub Streak"
-  />
+<img src="./profile/top-langs.svg" width="100%" alt="Most Used Languages" />
 
 </div>
 
@@ -77,18 +74,10 @@ My interests include:
 
 <div align="center">
 
-  <h3>Let's Build Something Meaningful.</h3>
+### Let's Build Something Meaningful.
 
-  <p>
-    Always learning, exploring, and creating.
-  </p>
+*Always learning, creating, and exploring new possibilities.*
 
-  <a href="https://hakimlesmana.my.id">
-    Portfolio ↗
-  </a>
-
-  <br/><br/>
-
-  <sub>Designed with curiosity, built with creativity.</sub>
+[hakimlesmana.my.id](https://hakimlesmana.my.id)
 
 </div>
