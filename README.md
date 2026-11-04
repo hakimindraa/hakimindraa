@@ -161,59 +161,51 @@ Technologies and tools I use to build and explore digital solutions.
 
 ## <img src="https://img.shields.io/badge/GITHUB_ANALYTICS-161B22?style=flat-square&logo=github&logoColor=58A6FF" /> GitHub Analytics
 
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-  <br/>
+  <!-- GitHub Stats -->
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=hakimindraa&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Statistics"
+  />
 
-  <!-- GITHUB STATS -->
-  <a href="https://github.com/hakimindraa">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api?username=hakimindraa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github"
-      alt="Hakim Indra GitHub Stats"
-    />
-  </a>
-
-  <!-- TOP LANGUAGES -->
-  <a href="https://github.com/hakimindraa">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimindraa&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6"
-      alt="Most Used Languages"
-    />
-  </a>
+  <!-- Top Languages -->
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakimindraa&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
+    alt="Top Languages"
+  />
 
   <br/><br/>
 
-  <!-- GITHUB STREAK -->
-  <a href="https://github.com/hakimindraa">
-    <img
-      width="75%"
-      src="https://streak-stats.demolab.com?user=hakimindraa&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
-      alt="GitHub Contribution Streak"
-    />
-  </a>
+  <!-- GitHub Streak -->
+  <img
+    width="75%"
+    src="https://streak-stats.demolab.com/?user=hakimindraa&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 
 </div>
 
 <br/>
 
-<!-- CONTRIBUTION GRAPH -->
+---
+
+## 📈 Contribution Activity
+
 <div align="center">
 
-  <h3>Contribution Activity</h3>
-
-  <a href="https://github.com/hakimindraa">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=hakimindraa&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true"
-      width="100%"
-      alt="GitHub Contribution Graph"
-    />
-  </a>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hakimindraa&theme=github-compact&hide_border=true"
+    width="100%"
+    alt="Contribution Graph"
+  />
 
 </div>
-
-<br/>
 
 ---
 
