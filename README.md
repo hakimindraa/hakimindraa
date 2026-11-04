@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://hakimlesmana.my.id">
-    <img src="https://img.shields.io/badge/Website-hakimlesmana.com-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website" />
+    <img src="https://img.shields.io/badge/Website-hakimlesmana.my.id-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website" />
   </a>
   <a href="https://github.com/hakimindraa">
     <img src="https://img.shields.io/badge/GitHub-hakimindraa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
