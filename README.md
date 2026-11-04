@@ -70,6 +70,14 @@ I'm an Informatics Engineering student passionate about building digital product
 
 </div>
 
+<br/>
+
+<img
+    src="https://streak-stats.demolab.com/?user=hakimindraa&theme=github-dark-blue&hide_border=true&background=0D1117"
+    width="70%"
+    alt="GitHub Streak"
+  />
+
 ---
 
 <div align="center">
