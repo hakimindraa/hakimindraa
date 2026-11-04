@@ -1,50 +1,11 @@
-
-name: Update GitHub Profile Stats
+name: Test GitHub Actions
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v6
-
-      - name: Create Profile Directory
-        run: mkdir -p profile
-
-      - name: Generate GitHub Stats
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=hakimindraa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: Generate Top Languages
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=hakimindraa&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
-      - name: Commit Statistics
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add profile/stats.svg profile/top-langs.svg
-
-          git commit -m "Update GitHub profile statistics" || exit 0
-
-          git push
+      - name: Test Workflow
+        run: echo "GitHub Actions is working!"
